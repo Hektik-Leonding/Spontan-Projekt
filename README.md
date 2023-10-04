@@ -4,6 +4,8 @@
 ## Rahmenbedingungen: 
 Organisatorische Rahmenbedingungen:
 Technische Rahmenbedingungen:
+Console.ReadLine();
+Next step
 
 ## Planung: 
 *Projektteam*
